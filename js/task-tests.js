@@ -211,3 +211,27 @@
 // }
 
 // console.log(calculateTotalPrice('Droidss'));
+
+// ===========================================================================================================
+
+// function add(...args) {
+//   let total = 0;
+//   for (let arg of args) {
+//     total += arg;
+//   }
+//   return total;
+// }
+
+// console.log(add(12, 4, 11, 48));
+
+// =================================================================================================================
+
+// function getExtremeScores(scores) {
+//   const score = {};
+//   (score.best = Math.max(...scores)), (score.worst = Math.min(...scores));
+//   return score;
+// }
+
+// console.log(getExtremeScores([89, 64, 42, 17, 93, 51, 26]));
+
+// ====================================================================================================================
